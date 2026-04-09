@@ -17,6 +17,6 @@ Currently, I am deeply involved in **AI product integration**, building **autono
 - **Infrastructure & Tools:** Docker, Git, AWS S3, Azure AI
 
 #### 📫 Let's connect
-- **Telegram:**[@apartman36](https://t.me/apartman36)
+- **Telegram:** https://x.com/apartmanchik
 - **Email:** Sae230704@yandex.ru
 - **Website:** https://kirillpix.github.io/sarychev-personal-portfolio/ 
