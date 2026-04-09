@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Antoniy! 👋
 
-<!--
-**Apartman36/Apartman36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 21-year-old **AI/LLM Developer and Integration Engineer**. I've been exploring the world of neural networks since I was 16, and today my main focus is transforming raw AI capabilities into production-ready business solutions.
 
-Here are some ideas to get you started:
+Currently, I am deeply involved in **AI product integration**, building **autonomous agentic workflows**, developing **custom parsers**, and working with **MCP (Model Context Protocol)** to expand LLM capabilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 What I do
+- **Agentic AI & Orchestration:** Building autonomous AI agents, multi-step LLM pipelines, and advanced RAG systems.
+- **Product Integration & MCP:** Seamlessly integrating LLMs into existing software and leveraging Model Context Protocol for tool use.
+- **Data Extraction & Parsers:** Developing robust custom parsers and Intelligent Document Processing (IDP) solutions for unstructured data.
+- **Backend Development:** Designing scalable, asynchronous backends to handle AI workloads efficiently.
+
+#### 🛠 Tech Stack
+- **Languages & Frameworks:** Python (OOP, asyncio), FastAPI, Pydantic
+- **AI/LLM Ecosystem:** LangChain, LlamaIndex, OpenAI API, Gemini, Mistral, Claude, PyTorch
+- **Databases & Vector Stores:** SQL, Redis, FAISS, SQLite
+- **Infrastructure & Tools:** Docker, Git, AWS S3, Azure AI
+
+#### 📫 Let's connect
+- **Telegram:**[@apartman36](https://t.me/apartman36)
+- **Email:** Sae230704@yandex.ru
