@@ -1,4 +1,4 @@
-### Hi there, I'm Antoniy! 👋
+### Hi there, I'm Antonii! 👋
 
 I'm a 21-year-old **AI/LLM Developer and Integration Engineer**. I've been exploring the world of neural networks since I was 16, and today my main focus is transforming raw AI capabilities into production-ready business solutions.
 
