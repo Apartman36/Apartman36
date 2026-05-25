@@ -19,4 +19,4 @@ Currently, I am deeply involved in **AI product integration**, building **autono
 #### 📫 Let's connect
 - **Twitter:** https://x.com/apartmanchik
 - **Email:** antonsarychev.2345@gmail.com
-- **Website:** [https://kirillpix.github.io/sarychev-personal-portfolio/ ](https://apartman36.github.io/sarychev-web/en/)
+- **Website:** https://apartman36.github.io/sarychev-web/en/
