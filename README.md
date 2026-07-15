@@ -1,3 +1,10 @@
+## Open to work
+
+I'm currently looking for remote full-time or contractor roles as an
+Applied AI Engineer, LLM Engineer, AI Product Engineer or AI Automation Engineer.
+
+Based in Moscow, UTC+3.
+
 ### Hi there, I'm Antonii! 👋
 
 I'm a 21-year-old **AI/LLM Developer and Integration Engineer**. I've been exploring the world of neural networks since I was 16, and today my main focus is transforming raw AI capabilities into production-ready business solutions.
